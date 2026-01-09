@@ -1,6 +1,4 @@
 # Phone-Book-Client-Server-Application
-````markdown
-# PhoneNumber Project
 
 A simple Java program to store and search phone numbers using a client and server.
 
